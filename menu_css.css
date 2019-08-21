@@ -1,0 +1,13 @@
+#menu { width: 150px; }
+a:link, a:visited{
+	background-color: yellow;
+	color: blue;
+	clear: both;
+	display: block;
+	text-decoration: none;
+	padding: 5px;
+	margin-bottom: 1px;
+}
+a:hover{
+	background-color:red
+}
